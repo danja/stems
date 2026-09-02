@@ -3,7 +3,7 @@
 ## Things to Remix
 
 * [Drapes](drapes/README.md) - vaguely melodic
-* [Tube](tubes/README.md) - vaguely industrial
+* [Tube](tube/README.md) - vaguely industrial
 
 Public Domain (CC0 license), use as you please.
 
@@ -11,7 +11,7 @@ If you do anything interesting with this material, let me know! Any kind of attr
 
 **Do something with this stuff, you can boast about the collaboration.**
 
-I know people are sensitive to this, so **I will make clear if I've used AI on any of the recordings -  not yet!**. I do use coding assistants extensively, for things like generative [VST plugins](https://danja.github.io/downspout/) & earthquake prediction research.
+I know people are sensitive to this, so **I will make clear if I've used AI on any of the recordings -  not yet!**. Though I do use coding assistants extensively, for things like generative [VST plugins](https://danja.github.io/downspout/) & earthquake prediction research.
 
 
 
