@@ -2,9 +2,11 @@
 
 ## Things to Remix
 
-Public domain, use as you please.
-
 * [Drapes](drapes/README.md)
+
+Public Domain (CC0 license), use as you please.
+
+
 
 If you do anything interesting with this material, any kind of attribution appreciated. My homepage is [danny.ayers.name](https://danny.ayers.name). I'm [@danja](https://x.com/danja) on most social media, except for YouTube where I'm [djayers](https://www.youtube.com/djayers). There I regularly put solo jams & work in progress. My latest album is [Attone](https://github.com/danja/attone#attone), nearby here.
 
