@@ -4,6 +4,7 @@
 
 * [Drapes](drapes/README.md) - vaguely melodic
 * [Tube](tube/README.md) - vaguely industrial
+* [Rural](rural/README.md) - electronic instrumental
 
 Public Domain (CC0 license), use as you please.
 
